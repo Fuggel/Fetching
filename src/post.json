@@ -1,0 +1,20 @@
+[
+    {
+        "title": "Strangehorn",
+        "img": "./img/57bd216972f645c11b67f7f626fcd911.jpg",
+        "text": "Bavaria ipsum",
+        "id": 1
+    },
+    {
+        "title": "Pummelhorn",
+        "img": "./img/81KR5kzP3zL._AC_SX466_.jpg",
+        "text": "Bavaria ipsum dolor sit amet schaugn jo mei is des schee, dringma awen",
+        "id": 2
+    },
+    {
+        "title": "Angryhorn",
+        "img": "./img/145a4c1f18943cee9c43dc8cb399a87a.jpg",
+        "text": "Bavaria ipsum dolor sit amet schaugn jo mei is de",
+        "id": 3
+    }
+]
